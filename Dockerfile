@@ -1,5 +1,4 @@
-
-FROM mirkokiefer/java
+FROM abiskop/openjdk
 
 ADD install_es.sh /install_es.sh
 
