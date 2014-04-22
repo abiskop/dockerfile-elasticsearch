@@ -3,6 +3,6 @@
 Trusted build: [abiskop/elasticsearch](https://index.docker.io/u/abiskop/elasticsearch/).
 
 **Dependencies**:
-- [mirkokiefer/java](https://github.com/mirkokiefer/dockerfile-java)
+- [abiskop/openjdk](https://github.com/abiskop/dockerfile-openjdk)
 
 Elasticsearch can be run from `/elasticsearch/bin/elasticsearch`.
